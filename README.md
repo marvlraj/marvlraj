@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marvlraj
+- 👋 Hi, I’m Marvlraj
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on ...
