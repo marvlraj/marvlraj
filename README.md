@@ -5,19 +5,19 @@ I'm passionate about **Artificial Intelligence** and currently diving deep into 
 ---
 
 ### 👀 Interests
+- Web Development with React & Next.js
+- Building intelligent and responsive web apps
 - Artificial Intelligence
 - Machine Learning
-- Web Development with React & Next.js
 - Deep Learning & NLP
-- Building intelligent and responsive web apps
 
 ---
 
 ### 🌱 Currently Learning
-- Machine Learning with Python (Scikit-learn, TensorFlow)
 - JavaScript (ES6+)
 - React fundamentals and hooks
 - Next.js (server-side rendering, API routes)
+- Machine Learning with Python (Scikit-learn, TensorFlow)
 - Git & GitHub best practices
 
 ---
@@ -31,8 +31,8 @@ I'm passionate about **Artificial Intelligence** and currently diving deep into 
 
 ### 💬 Looking to Collaborate On
 - Beginner-friendly open-source projects
-- AI-powered web apps
 - Frontend + ML hybrid applications
+- AI-powered web apps
 
 ---
 
