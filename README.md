@@ -1,9 +1,16 @@
 # 👋 Hi there, I'm Marvlraj!
 
 I'm passionate about **Artificial Intelligence** and currently diving deep into **Machine Learning**, **JavaScript**, and modern web development using **Next.js** and **React**.
-
 ---
+🚀 Full Stack Developer | Building AI-powered web applications
+🔧 React • Next.js • Node.js • Python • ML
+🌐 Portfolio: sunnyraj-portfolio.vercel.app
+📧 marvlraj7@gmail.com | 📍 Saran, Bihar-IN
 
+Passionate about creating intelligent web solutions that combine modern frontend 
+frameworks with machine learning. Open to full-stack developer opportunities.
+---
+---
 ### 👀 Interests
 - Web Development with React & Next.js
 - Building intelligent and responsive web apps
