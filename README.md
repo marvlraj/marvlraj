@@ -10,7 +10,6 @@ I'm passionate about **Artificial Intelligence** and currently diving deep into 
 📧 marvlraj7@gmail.com | 📍 Saran, Bihar-IN
 
 ---
----
 ### 👀 Interests
 - Web Development with React & Next.js
 - Building intelligent and responsive web apps
