@@ -6,8 +6,7 @@ I'm passionate about **Artificial Intelligence** and currently diving deep into 
 ---
 🚀 Full Stack Developer | Building AI-powered web applications
 🔧 React • Next.js • Node.js • Python • ML
-🌐 Portfolio: sunnyraj-portfolio.vercel.app
-📧 marvlraj7@gmail.com | 📍 Saran, Bihar-IN
+📧 admin@feastybox.com | 📍 Saran, Bihar-IN
 
 ---
 ### 👀 Interests
